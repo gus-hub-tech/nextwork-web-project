@@ -15,7 +15,7 @@
 
 ## Architecture Overview
 
-![Architecture Overview](./architecture-overview.png)
+![Architecture Overview] ./project image/aws-cicd-image.png
 
 ## Project Structure
 
