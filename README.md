@@ -13,6 +13,10 @@
 - **Deployment Scripts**: Custom deployment and artifact scripts included.
 - **Cloud Ready**: Artifacts are prepared for deployment to cloud environments.
 
+## Architecture Overview
+
+![Architecture Overview](./architecture-overview.png)
+
 ## Project Structure
 
 ```
