@@ -67,6 +67,10 @@ Deployment is managed using `appspec.yml` and scripts under the `scripts/` direc
 - **Build Settings**: Modify `buildspec.yml` and `settings.xml` for custom build or deployment needs.
 - **Scripts**: Place any custom deployment or utility scripts in the `scripts/` directory.
 
+## Future updates and to-do!
+
+- Ensure python script works to enable sensitive account information redaction.
+
 ## License
 
 This project is managed by GravityKloud Tech. See repository for license details.
