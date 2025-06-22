@@ -73,8 +73,9 @@ Deployment is managed using `appspec.yml` and scripts under the `scripts/` direc
 
 ## License
 
-This project is managed by GravityKloud Tech. See repository for license details.
+This project is for educational and demonstration purposes.  
+See individual files for additional licensing information if present.
 
 ---
 
-*For any issues or contributions, please open an issue or submit a pull request.*
+*Feel free to expand, adapt, or integrate this template to fit your own applications!*
